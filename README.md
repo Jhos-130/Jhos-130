@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bienvenido a mi portada de Github
 
-<!--
-**Jhos-130/Jhos-130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Jhos-130 🚀
 
-Here are some ideas to get you started:
+### Mis lenguajes favoritos
+- Javascript
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks favoritos
+- Flet
+
+
+```
+console.log('Hello World')
+print('Hello World')
+System.out.println("Hello World");
+```
