@@ -5,7 +5,6 @@
 ### Mis lenguajes favoritos
 - Javascript
 - Python
-
 ### Frameworks favoritos
 - Flet
 
